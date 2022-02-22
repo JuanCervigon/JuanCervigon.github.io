@@ -1,10 +1,19 @@
 ## INE Datos
 
-Cambio You can use the [editor on GitHub](https://github.com/JuanCervigon/JuanCervigon.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+INE Datos es un proyecto para promocionar los estudios estadísticos con datos del INE. Está dirigido a los estudiantes universitarios que deseen desarrollar modelos con datos producidos por el INE
+You can use the [editor on GitHub](https://github.com/JuanCervigon/JuanCervigon.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Cambio Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Conjuntos de datos
+
+
+### Casos de uso
+
+
+### Esquemas de análisis
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
