@@ -29,7 +29,7 @@ Los casos de uso son cuadernos de Google Colab, escritos en Python o R, que util
 
 
 
-### Esquemas de análisis
+### Técnicas de análisis
 
 Los esquemas de análisis son también cudernos de Google Colab, escritos en Python o R, que describen una técnica de análisis desde el punto de vista matemático o técnico. El objetivo es ilustrar un técnica de análisis. Son cuadernos que sirven de referencia y consulta para su posterior aplicacion a los conjuntos de datos
 
