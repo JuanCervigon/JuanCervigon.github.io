@@ -19,19 +19,19 @@ Todos los desarrollos están en Python o R y se implementan en cuadernos (notebo
 
 ### Conjuntos de datos
 
-Los conjuntos de datos son ficheros Excel que contienen datos provinientes de varias operaciones estadísticas. La idea es facilitar los datos extraidos de la base de datos del INE en un formato fácil de tratar y agrupados por temas. Con ello se pretende que el usuario no tenga que gastar tiempo en buscar, descargar y combinar los datos
+Los conjuntos de datos son ficheros Excel que contienen datos de varias operaciones estadísticas. Cada fichero Excel contiene dos hojas, una con los datos y otra con los metadatos. Con ello se pretende poner a disposición del analista los datos de forma fácil, intuitiva y con un formato tabular, evitando la laboriosa tarea de descargar los datos de la base de datos del INE, juntar datos de varias operaciones estadísticas, documentar el origen de los datos, etc. Los conjuntos de datos se ha creado datos sobre temas de interés, como por ejemplo, datos económicos, datos sociodemográficos, salud, etc. 
 
 
 
 ### Casos de uso
 
-Los casos de uso son cuadernos de Google Colab, escritos en Python o R, que utilizan alguna técnica de análisis estadístico aplicada a un conjunto de datos. El objetivo es tratar el conjunto de datos para extraer conclusiones  
+Los casos de uso son cuadernos de Google Colab (notebooks) escritos en Python o R. Consisten en hacer un análisis estadítico sobre un determinado dataset. 
 
 
 
 ### Técnicas de análisis
 
-Los esquemas de análisis son también cudernos de Google Colab, escritos en Python o R, que describen una técnica de análisis desde el punto de vista matemático o técnico. El objetivo es ilustrar un técnica de análisis. Son cuadernos que sirven de referencia y consulta para su posterior aplicacion a los conjuntos de datos
+Las técnicas de análisis son también cuadernos de Google Colab (notabooks) escritos en Python o R. A diferencia de los casos de uso, donde el énfasis está en las conclusiones sobre el contenido de los datos, las técnica de análsis están enfocadas a explicar la propia técnica estadística. Con ello se pretende facilitar una colección de cuadernos que puedan servir como referencia y consulta para su posterior apicación a los conjuntos de datos
 
 
 
