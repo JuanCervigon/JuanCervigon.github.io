@@ -31,7 +31,7 @@ Los casos de uso son cuadernos de Google Colab (notebooks) escritos en Python o 
 
 ### Técnicas de análisis
 
-Las técnicas de análisis son también cuadernos de Google Colab (notabooks) escritos en Python o R. A diferencia de los casos de uso, donde el énfasis está en las conclusiones sobre el contenido de los datos, las técnica de análsis están enfocadas a explicar la propia técnica estadística. Con ello se pretende facilitar una colección de cuadernos que puedan servir como referencia y consulta para su posterior apicación a los conjuntos de datos
+Las técnicas de análisis son también cuadernos de Google Colab (notabooks) escritos en Python o R. A diferencia de los casos de uso, donde el énfasis está en las conclusiones sobre el contenido de los datos, las técnica de análsis están enfocadas a explicar la propia técnica estadística. Con ello se pretende facilitar una colección de cuadernos como referencia y consulta para su posterior apicación a los conjuntos de datos
 
 
 
