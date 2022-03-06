@@ -4,7 +4,7 @@ INE Datos es un proyecto para ilustrar el uso de técnicas de análisis estadís
 
 Está dirigido a estudiantes universitarios
 
-Todo el material de este proyecto está alojado en https://github.com/AlejandroDGR/Proyecto_Difusion_Universitarios_INE
+Todo el material de este proyecto está alojado en https://github.com/AlejandroDGR/Proyecto_Difusion_Universitarios_INE y es accesible por cualquier persona
 
 La información se ha estructurado en tres apartados
 1. Conjuntos de datos
@@ -44,10 +44,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JuanCervigon/JuanCervigon.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
 
