@@ -4,7 +4,7 @@ INE Datos es un repositorio de material para hacer análisis estadístico con da
 
 El objetivo de INE Datos es facilitar herramientas y ejemplos de análisis de datos. Está dirigido a estudiantes universitarios. 
 
-Todo el material de este proyecto está alojado en [INE Datos](https://github.com/AlejandroDGR/Proyecto_Difusion_Universitarios_INE) y es accesible por cualquier persona con acceso a Internet. Todos los desarrollos están en Python o R y se implementan en cuadernos (notebooks) de Google Colab 
+Todo el material de este proyecto está alojado en [INE Datos](https://github.com/AlejandroDGR/Proyecto_Difusion_Universitarios_INE) y es de libre acceso. Todos los desarrollos están en Python o R y se implementan en cuadernos (notebooks) de Google Colab 
 
 La información se ha estructurado en tres apartados
 
@@ -23,13 +23,13 @@ Los conjuntos de datos se han extraido de la base de datos pública del INE. Est
 
 ### Casos de uso
 
-Los casos de uso son cuadernos de Google Colab (notebooks) escritos en Python o R. Consisten en hacer un análisis estadítico sobre un determinado dataset. 
+Los casos de uso son cuadernos de Google Colab (notebooks) escritos en Python o R. Cada caso de uso contiene un análisis concreto sobre un dataset determinado y con una o varias técnicas de análisis. El objetivo de un caso de uso es obtener conclusiones de los conjuntos de datos.  
 
 
 
 ### Técnicas de análisis
 
-Las técnicas de análisis son también cuadernos de Google Colab (notabooks) escritos en Python o R. A diferencia de los casos de uso, donde el énfasis está en las conclusiones sobre el contenido de los datos, las técnica de análsis están enfocadas a explicar la propia técnica estadística. Con ello se pretende facilitar una colección de cuadernos como referencia y consulta para su posterior apicación a los conjuntos de datos
+Las técnicas de análisis están implementadas en cuadernos de Google Colab (notabooks) en Python o en R. A diferencia de los casos de uso, donde el énfasis está en las conclusiones sobre el contenido de los datos, las técnica de análsis están enfocadas a explicar la propia técnica estadística desde el punto de vista matemático. Con ello se pretende facilitar un repertorio de herramientas de análisis de datos como referencia y consulta para su posterior apicación a los conjuntos de datos.
 
 Las técnicas de análsis que se utilizan están estructuradas en 5 grandes capítulos: regresión, clasificación, reducción de la dimensionalidad, cluster análisis y series temporales. Adicionalmente se contemplan otro tipo de técnicas de carácter general como son: Análisis exploratorio de datos y gráficos
 
@@ -38,8 +38,7 @@ Las técnicas de análsis que se utilizan están estructuradas en 5 grandes cap�
 ```markdown
 Notas
 
-For more details see [Basic writing and formatting syntax]
-https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
 ```
