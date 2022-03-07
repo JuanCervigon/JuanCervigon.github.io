@@ -1,6 +1,6 @@
 ## INE Datos
 
-INE Datos es un proyecto para ilustrar el uso de técnicas de análisis estadístico aplicadas a conjuntos de datos producidos por el INE.
+INE Datos es un repositorio de material para hacer análisis estadístico con datos del INE. Contiene datos fácilmente descargables en formato Excel y cuadernos (notebooks) desarrollados en Python o en R donde se implementan análisis estadísticos de todo tipo.
 
 Está dirigido a estudiantes universitarios
 
