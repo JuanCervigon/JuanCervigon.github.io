@@ -1,4 +1,3 @@
-remote_theme: just-the-docs/just-the-docs
 
 ## INE Datos
 
