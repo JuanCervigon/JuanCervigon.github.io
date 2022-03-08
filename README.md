@@ -35,10 +35,12 @@ Las técnicas de análsis que se utilizan están estructuradas en 5 grandes cap�
 
 
 
+
+remote_theme: just-the-docs/just-the-docs
+
+
 ```markdown
 Recursos para aprender Python
-
-
 
 
 ```
