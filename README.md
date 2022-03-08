@@ -1,3 +1,5 @@
+remote_theme: just-the-docs/just-the-docs
+
 ## INE Datos
 
 INE Datos es un repositorio de material para hacer análisis estadístico con datos del INE. Contiene datos fácilmente descargables en formato Excel y cuadernos (notebooks) desarrollados en Python o en R donde se implementan análisis estadísticos de todo tipo sobre datos del INE
@@ -36,7 +38,7 @@ Las técnicas de análsis que se utilizan están estructuradas en 5 grandes cap�
 
 
 
-remote_theme: just-the-docs/just-the-docs
+
 
 
 ```markdown
