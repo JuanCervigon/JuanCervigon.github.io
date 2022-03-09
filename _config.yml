@@ -1,3 +1,4 @@
+
 remote_theme: just-the-docs/just-the-docs
 
 
@@ -16,6 +17,7 @@ remote_theme: just-the-docs/just-the-docs
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: INE datos
 description: Análisis estadístico con datos del INE
 
@@ -111,7 +113,7 @@ description: Análisis estadístico con datos del INE
 #yo ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 #yo plugins:
-  - jekyll-seo-tag
+#yo  - jekyll-seo-tag
 
 #yo kramdown:
 #yo   syntax_highlighter_opts:
