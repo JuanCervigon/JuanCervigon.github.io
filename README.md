@@ -43,6 +43,9 @@ Las técnicas de análsis que se utilizan están estructuradas en 5 grandes cap�
 ```markdown
 Recursos para aprender Python
 
+Puedes encontrar varios cursos de Python [aquí](https://datos.gob.es/es/noticia/cursos-para-aprender-mas-sobre-python?utm_source=newsletter&utm_medium=email&utm_campaign=Cursos-sobre-Python-la-gestin-de-los-datos-maestros-y-mucho-ms-en-datosgobes)
+
+
 
 ```
 
