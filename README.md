@@ -35,16 +35,14 @@ Las técnicas de análisis están implementadas en cuadernos de Google Colab (no
 Las técnicas de análsis que se utilizan están estructuradas en 5 grandes capítulos: regresión, clasificación, reducción de la dimensionalidad, cluster análisis y series temporales. Adicionalmente se contemplan otro tipo de técnicas de carácter general como son: Análisis exploratorio de datos y gráficos
 
 
-
-
+### Recursos para aprender Python
+Puedes encontrar varios cursos de Python [aquí](https://datos.gob.es/es/noticia/cursos-para-aprender-mas-sobre-python?utm_source=newsletter&utm_medium=email&utm_campaign=Cursos-sobre-Python-la-gestin-de-los-datos-maestros-y-mucho-ms-en-datosgobes)
 
 
 
 ```markdown
-Recursos para aprender Python
 
-Puedes encontrar varios cursos de Python [aquí](https://datos.gob.es/es/noticia/cursos-para-aprender-mas-sobre-python?utm_source=newsletter&utm_medium=email&utm_campaign=Cursos-sobre-Python-la-gestin-de-los-datos-maestros-y-mucho-ms-en-datosgobes)
-
+Ejemplos
 
 
 ```
