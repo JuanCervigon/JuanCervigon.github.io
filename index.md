@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Pagina HOME de la web de ADINE"
 permalink: /
 ---
 
@@ -14,7 +14,7 @@ INE Datos es un repositorio de material para hacer análisis estadístico con da
 
 El objetivo de INE Datos es facilitar herramientas y ejemplos de análisis de datos. Está dirigido a estudiantes universitarios. 
 
-Todo el material de este proyecto está alojado en [INE Datos](https://github.com/JuanCervigon/INE-Data) y es de libre acceso. Todos los desarrollos están en Python o R y se implementan en cuadernos (notebooks) de Google Colab 
+Todo el material de este proyecto está alojado en [ADINE](https://github.com/JuanCervigon/INE-Data) y es de libre acceso. Todos los desarrollos están en Python o R y se implementan en cuadernos (notebooks) de Google Colab 
 
 La información se ha estructurado en tres apartados 
 
