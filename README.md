@@ -1,11 +1,11 @@
 
 ## Introducción
 
-En este repositorio se aloja la web del proyecto ADINE (Analisis de datos del INE) 
+Esta es la página web del proyecto ADINE (Analisis de datos del INE) 
 
 Acceso a la [web](https://juancervigon.github.io/)
 
-El repositorio que contiene los materiales del proyecto [INE Datos](https://github.com/JuanCervigon/INE-Data) está distribuidos en las carpetas 
+El proyecto ADINE es un repositorio de recursos para hacer análisis estadístico ilustrado con datos del INE [INE Datos](https://github.com/JuanCervigon/INE-Data) está distribuidos en las carpetas 
 
 Conjuntos de datos
 Casos de Uso con Python
