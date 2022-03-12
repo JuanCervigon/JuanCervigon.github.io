@@ -1,7 +1,7 @@
 
 ## Introducción
 
-En este repositorio se aloja la web del proyecto INE Datos. 
+En este repositorio se aloja la web del proyecto ADINE (Analisis de datos del INE) 
 
 Acceso a la [web](https://juancervigon.github.io/)
 
