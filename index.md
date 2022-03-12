@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Pagina HOME de la web de ADINE"
+description: "Pagina principal de la web de ADINE"
 permalink: /
 ---
 
