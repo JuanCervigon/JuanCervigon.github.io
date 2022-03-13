@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Casos
+title: casos
 nav_order: 3
 ---
 
