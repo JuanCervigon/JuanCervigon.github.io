@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Intro
 nav_order: 1
 description: "Pagina principal de la web de ADINE"
 permalink: /
