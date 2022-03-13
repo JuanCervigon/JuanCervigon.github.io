@@ -21,9 +21,9 @@ remote_theme: just-the-docs/just-the-docs
 title: INE datos
 description: Análisis estadístico con datos del INE
 
-#yo baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
-#yo url: "https://JuanCervigon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://JuanCervigon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 #yo permalink: pretty
 #yo exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
