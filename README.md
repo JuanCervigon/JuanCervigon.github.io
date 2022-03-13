@@ -6,7 +6,6 @@ En este repositorio está alojado el proyecto de INE Datos así como la página 
 
 Se puede acceder a los ficheros del proyecto directamente o a través de la web
 
-El proyecto ADINE es un repositorio de recursos para hacer análisis estadístico ilustrado con datos del INE [INE Datos](https://github.com/JuanCervigon/INE-Data) está distribuidos en las carpetas 
 
 Conjuntos de datos. Es una colección de ficheros de datos extraídos de la base de datos del INE
 Casos de Uso. Es una colección de cuadernos (notebooks) escritos en Python o en R donde se utiliza un conjunto de datos
