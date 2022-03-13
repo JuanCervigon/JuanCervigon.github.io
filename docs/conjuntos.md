@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Conjuntos
+title: conjuntos
 nav_order: 2
 ---
 
