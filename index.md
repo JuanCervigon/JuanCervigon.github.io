@@ -16,7 +16,7 @@ El objetivo de INE Datos es facilitar herramientas y ejemplos de análisis de da
 
 Todo el material de este proyecto está alojado en el [repositorio](https://github.com/JuanCervigon/JuanCervigon.github.io) de GitHub y es de libre acceso. Todos los desarrollos están en Python o R y se implementan en cuadernos (notebooks) de Google Colab 
 
-La información se ha estructurado en tres apartados 
+La información se ha estructurado en cuatro apartados 
 
 1. Conjuntos de datos
 2. Casos de uso
