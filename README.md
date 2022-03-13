@@ -1,6 +1,6 @@
 
 
-## Repositrio del proyecto INE Datos
+## Repositorio del proyecto INE Datos
 
 En este repositorio está alojado el proyecto de INE Datos así como la página web para facilitar el [acceso](https://juancervigon.github.io/)
 
