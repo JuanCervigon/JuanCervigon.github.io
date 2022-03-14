@@ -20,4 +20,6 @@ Las técnicas de análsis están estructuradas en los siguientes capítulos:
 1. Gráficos
 
 
+Ir a [Técnicas de análisis](https://github.com/JuanCervigon/JuanCervigon.github.io/tree/main/Tecnicas%20de%20analisis)
+
 
