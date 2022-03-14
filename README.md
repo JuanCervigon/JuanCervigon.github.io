@@ -4,7 +4,7 @@
 
 En este repositorio está alojado el proyecto de INE Datos. También está alojada la página [web](https://juancervigon.github.io/)
 
-Se puede acceder a los recursos del proyecto INE Datos directamente en las diferentes carpetas del repositorio o a través de la página web
+Se puede acceder a todos los recursos del proyecto INE Datos directamente desde este repositorio o a través de la página web
 
 El repositorio está estructurado en cinco carpetas
 
