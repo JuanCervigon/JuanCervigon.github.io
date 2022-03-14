@@ -72,12 +72,12 @@ search.button: true
 #yo heading_anchors: true
 
 # Aux links for the upper right navigation
-aux_links:
-  "Conjuntos de datos en GitHub":
-    - "https://github.com/JuanCervigon/JuanCervigon.github.io/tree/main/Conjuntos%20de%20datos"
+#yo aux_links:
+#yo  "Conjuntos de datos en GitHub":
+#yo    - "https://github.com/JuanCervigon/JuanCervigon.github.io/tree/main/Conjuntos%20de%20datos"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: true
+#yo aux_links_new_tab: true
 
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
