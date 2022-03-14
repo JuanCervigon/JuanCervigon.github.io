@@ -11,13 +11,13 @@ Las técnicas de análisis están implementadas en cuadernos de Google Colab (no
 
 Las técnicas de análsis están estructuradas en los siguientes capítulos: 
 
-1 Regresión, 
-2 Clasificación
-3 Reducción de la dimensionalidad
-4 Cluster análisis
-5 Series temporales
-6 Análisis exploratorio
-7 Gráficos
+1. Regresión, 
+1. Clasificación
+1. Reducción de la dimensionalidad
+1. Cluster análisis
+1. Series temporales
+1. Análisis exploratorio
+1. Gráficos
 
 
 
