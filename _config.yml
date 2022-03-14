@@ -65,6 +65,8 @@ url: "https://JuanCervigon.github.io" # the base hostname & protocol for your si
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   #yo button: false
+  
+search.button: true
 
 # Enable or disable heading anchors
 #yo heading_anchors: true
