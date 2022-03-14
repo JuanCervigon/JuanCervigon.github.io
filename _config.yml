@@ -72,12 +72,12 @@ search.button: true
 #yo heading_anchors: true
 
 # Aux links for the upper right navigation
-#yo aux_links:
-#yo   "Just the Docs on GitHub":
-#yo     - "//github.com/just-the-docs/just-the-docs"
+aux_links:
+  "Conjuntos de datos en GitHub":
+    - "https://github.com/JuanCervigon/JuanCervigon.github.io/tree/main/Conjuntos%20de%20datos"
 
 # Makes Aux links open in a new tab. Default is false
-#yo aux_links_new_tab: true
+aux_links_new_tab: true
 
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
