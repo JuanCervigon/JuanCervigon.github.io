@@ -16,7 +16,7 @@ Cómo hacer una tabla
 | Microdatos         | Si/no                              | xx   |
 | Geografía          | España, CCAA, Provincia, Municipio, Sección | xx  |
 | Unidad de análisis | empresas personas/hogares          | xx |
-| Clasificaciones    | sexo, CNAE, ocupación,             | xx  |
+| Clasificaciones    | sexo, CNAE, ocupación, edad, estudios | xx  |
 
 
 Cómo hacer una etiqueta
