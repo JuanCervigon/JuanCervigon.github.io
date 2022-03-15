@@ -24,6 +24,9 @@ Cómo hacer una etiqueta
 
 {: .label .label-blue }
 
+Etiqueta azul
+
+
 Cómo hacer un botón
 
 [Ir al INE](http://ine.es/){: .btn }
@@ -32,5 +35,7 @@ Cómo hacer un botón
 Cómo hacer otro botón
 
 <button type="button" name="Botón" class="btn">Elemento botón</button>
+
+
 
 
