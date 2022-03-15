@@ -29,4 +29,7 @@ INE Datos es un proyecto en marcha y permanentemente se está actualizando el ma
 Empieza aqui
 {: .label }
 
+Coming soon
+{: .label .label-yellow }
+
 
