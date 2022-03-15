@@ -4,7 +4,7 @@ title: Página de pruebas
 nav_order: 6
 ---
 
-# Página para practicar opciones
+# Página de pruebas para practicar opciones
 
 
 Cómo hacer una tabla
