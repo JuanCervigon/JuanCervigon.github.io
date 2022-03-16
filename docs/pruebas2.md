@@ -1,5 +1,8 @@
-
-
+---
+layout: default
+title: Página de pruebas
+nav_order: 6
+---
 
 
 <!DOCTYPE html>
