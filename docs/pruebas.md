@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Página de pruebas
+title: Página de pruebas 1
 nav_order: 6
 ---
 
