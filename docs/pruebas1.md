@@ -9,6 +9,8 @@ nav_order: 6
 
 Cómo hacer una tabla
 
+
+
 | Clasificadores     | Variables                          | Comentarios |
 |:-------------------|:-----------------------------------|:------------|
 | Temática           | Usar la clasificación INE          | xx  |
@@ -22,9 +24,11 @@ Cómo hacer una tabla
 
 Cómo hacer una etiqueta
 
-
-
-Etiqueta azul {: .label .label-blue }
+Etiqueta azul 
+  {: .label .label-blue }
+  
+Etiqueta verde
+  {: .label .label-green }
 
 
 Cómo hacer un botón
