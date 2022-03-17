@@ -24,7 +24,7 @@ Cómo hacer una etiqueta
 
 
 
-Etiqueta azul{: .label .label-blue }
+Etiqueta azul {: .label .label-blue }
 
 
 Cómo hacer un botón
