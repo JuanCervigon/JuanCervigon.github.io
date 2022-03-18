@@ -40,5 +40,22 @@ Cómo hacer otro botón
 
 <button type="button" name="Botón" class="btn">Elemento botón</button>
 
+# Jekill code
+{% assign date = '2020-04-13T10:20:00Z' %}
+
+- Original date - {{ date }}
+- With timeago filter - {{ date | timeago }}
+
+# Gemfile
+
+source 'https://rubygems.org'
+
+gem 'jekyll', '~> 4.2'
+
+group :jekyll_plugins do
+  gem 'jekyll-timeago', '~> 0.13.1'
+end
+
+
 
 
