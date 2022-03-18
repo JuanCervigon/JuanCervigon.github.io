@@ -74,7 +74,7 @@ search.button: false
 
 # Aux links for the upper right navigation
 aux_links:
-  "Ir al repositorio GitHub":
+  "Ir al repositorio/docs de GitHub":
      - "https://github.com/JuanCervigon/JuanCervigon.github.io/tree/main/docs"
 
 # Makes Aux links open in a new tab. Default is false
