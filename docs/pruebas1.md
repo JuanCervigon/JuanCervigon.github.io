@@ -7,7 +7,7 @@ nav_order: 6
 # Página de pruebas para practicar opciones
 
 
-Cómo hacer una tabla
+## Cómo hacer una tabla
 
 
 
@@ -22,7 +22,7 @@ Cómo hacer una tabla
 | Grandes Estadística | Contabiliad, EPA, IPC, etc | xx  |
 
 
-Cómo hacer una etiqueta
+## Cómo hacer etiquetas
 
 Etiqueta azul 
   {: .label .label-blue }
@@ -31,22 +31,22 @@ Etiqueta verde
   {: .label .label-green }
 
 
-Cómo hacer un botón
+## Cómo hacer un botón
 
 [Ir al INE](http://ine.es/){: .btn }
 
 
-Cómo hacer otro botón
+## Cómo hacer otro botón
 
 <button type="button" name="Botón" class="btn">Elemento botón</button>
 
-# Jekill code
+# Cómo comparar fechas
+
 {% assign date = '2020-04-13T10:20:00Z' %}
 
 - Original date - {{ date }}
 - With timeago filter - {{ date | timeago }}
 
-# Gemfile
 
 source 'https://rubygems.org'
 
