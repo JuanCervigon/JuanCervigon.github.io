@@ -66,15 +66,16 @@ url: "https://JuanCervigon.github.io" # the base hostname & protocol for your si
   # Supports true or false (default)
   #yo button: false
   
-search.button: true
+#yo he deshabilitado search.button
+search.button: false
 
 # Enable or disable heading anchors
 #yo heading_anchors: true
 
 # Aux links for the upper right navigation
-#yo aux_links:
-#yo  "Conjuntos de datos en GitHub":
-#yo    - "https://github.com/JuanCervigon/JuanCervigon.github.io/tree/main/Conjuntos%20de%20datos"
+aux_links:
+  "Ir al repositorio GitHub":
+     - "https://github.com/JuanCervigon/JuanCervigon.github.io/tree/main/docs"
 
 # Makes Aux links open in a new tab. Default is false
 #yo aux_links_new_tab: true
