@@ -44,17 +44,9 @@ Etiqueta verde
 
 {% assign date = '2020-04-13T10:20:00Z' %}
 
-- Original date - {{ date }}
-- With timeago filter - {{ date | timeago }}
+- Fecha base - {{ date }}
+- Comparativo - {{ date | timeago }}
 
-
-source 'https://rubygems.org'
-
-gem 'jekyll', '~> 4.2'
-
-group :jekyll_plugins do
-  gem 'jekyll-timeago', '~> 0.13.1'
-end
 
 
 
